@@ -34,6 +34,8 @@ Additionally, please keep in mind the following notes about this preview snapsho
   in the menu.  
   Open Pragha Music Player, then Tools -> Preferences -> Plugins, then
   tick the "Mpris2" checkbutton.
+* The installer fails to accept LVM/LUKS+LVM configurations.  
+  This will be fixed as soon as possible. [linstaller bug #4](https://github.com/semplice/linstaller/issues/4)
 
 We are commited to solve all these issues before distributing the final release.
 
