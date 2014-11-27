@@ -30,6 +30,10 @@ Additionally, please keep in mind the following notes about this preview snapsho
 * Only GTK+3 applications take advantage of the "vera-color" feature.  
   There are plans to expand this feature to GTK+2 and Openbox
 * Translation support for vera is missing
+* You must enable the MPRIS2 pragha plugin to get the music player controls
+  in the menu.  
+  Open Pragha Music Player, then Tools -> Preferences -> Plugins, then
+  tick the "Mpris2" checkbutton.
 
 We are commited to solve all these issues before distributing the final release.
 
