@@ -41,7 +41,7 @@ Upgrading
 ---------
 
 While we strive to offer full upgrade compatibilty between near Semplice releases,
-the Semplice 6 -> 7 upgrade hasn't been tested throughly and end users
+the Semplice 6 -> 7-preview upgrade hasn't been tested throughly and end users
 should not attempt to upgrade.
 
 It will be possible to upgrade to the final 7 release when it will be made
