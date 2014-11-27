@@ -6,7 +6,7 @@ It's our pleasure to announce the release of Semplice 7-preview, codenamed "Comf
 After long delays on the Semplice 7 cycle, we are now pretty confident to make
 a preview release available to the general public.
 
-This release ships with the latest sid at the moment of build (2014-11-25) and with
+This release ships with the latest sid at the moment of build (2014-11-27) and with
 Linux kernel 3.17.2.
 
 Known issues
