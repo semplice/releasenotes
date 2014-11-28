@@ -165,6 +165,5 @@ fully.
 We are commited to make vera the central part of the upcoming Semplice
 releases.
 
-As the project is still at its early stages, vera doesn't currently
+As the project is still at its early stages, vera doesn't really
 differentiate with a normal, configured Openbox installation.
-
