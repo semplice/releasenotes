@@ -35,7 +35,7 @@ Additionally, please keep in mind the following notes about this preview snapsho
   Open Pragha Music Player, then Tools -> Preferences -> Plugins, then
   tick the "Mpris2" checkbutton.
 * The installer fails to accept LVM/LUKS+LVM configurations. [linstaller bug #4](https://github.com/semplice/linstaller/issues/4)  
-  This has been fixed in https://github.com/semplice/linstaller/commit/c32de7eceb977eae13ab8562be5fc875d427edd9 and released
+  This has been fixed in [linstaller commit c32de7e](https://github.com/semplice/linstaller/commit/c32de7eceb977eae13ab8562be5fc875d427edd9) and released
   as linstaller version 6.2.1.  
   Just ensure you update the installer via the built-in method.
 * Both isos are big, expecially the 32-bit one. **They** still **fit** in a normal,
