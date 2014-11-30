@@ -43,7 +43,7 @@ Additionally, please keep in mind the following notes about this preview snapsho
 * Images put into an USB drive using dd/cat do not boot in BIOS systems **only**.  
   EFI boot works fine.  
   If you want to put Semplice 7-preview in an USB drive and you have a BIOS-powered
-  machine, use UNetbootin (this will be obiviously fixed in the final release)
+  machine, use UNetbootin (this will be obviously fixed in the final release)
 * The screen auto-locks in live session.  
   To exit from the screensaver you must use the "live" password.  
   This is tracked in [live-config-semplice bug #1](https://github.com/semplice/live-config-semplice/issues/1).
