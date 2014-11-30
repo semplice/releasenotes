@@ -40,6 +40,10 @@ Additionally, please keep in mind the following notes about this preview snapsho
   Just ensure you update the installer via the built-in method.
 * Both isos are big, expecially the 32-bit one. **They** still **fit** in a normal,
   700 MB CD, but we'll do our best to lower the final iso image.
+* Images put into an USB drive using dd/cat do not boot in BIOS systems **only**.  
+  EFI boot works fine.  
+  If you want to put Semplice 7-preview in an USB drive and you have a BIOS-powered
+  machine, use UNetbootin (this will be obiviously fixed in the final release)
 
 We are commited to solve all these issues before distributing the final release.
 
