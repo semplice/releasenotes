@@ -26,7 +26,8 @@ Additionally, please keep in mind the following notes about this preview snapsho
 * It's not possible to set different backgrounds on multiple monitors.  
   This is only an user interface issue, as it's still possible to set
   different backgrounds manually
-* There is no user interface to configure the applications to autostart
+* There is no user interface to configure the applications to autostart  
+  This has been implemented in vera-control-center version [0.31-1](https://github.com/vera-desktop/vera-control-center/compare/debian/0.30-1...debian/0.31-1)
 * Only GTK+3 applications take advantage of the "vera-color" feature.  
   There are plans to expand this feature to GTK+2 and Openbox
 * Translation support for vera is missing
