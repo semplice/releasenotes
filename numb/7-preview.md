@@ -35,7 +35,8 @@ Additionally, please keep in mind the following notes about this preview snapsho
 * You must enable the MPRIS2 pragha plugin to get the music player controls
   in the menu.  
   Open Pragha Music Player, then Tools -> Preferences -> Plugins, then
-  tick the "Mpris2" checkbutton.
+  tick the "Mpris2" checkbutton.  
+  This has been resolved with pragha version 1.3.1+git20141121-10.
 * The installer fails to accept LVM/LUKS+LVM configurations. [linstaller bug #4](https://github.com/semplice/linstaller/issues/4)  
   This has been fixed in [linstaller commit c32de7e](https://github.com/semplice/linstaller/commit/c32de7eceb977eae13ab8562be5fc875d427edd9) and released
   as linstaller version 6.2.1.  
