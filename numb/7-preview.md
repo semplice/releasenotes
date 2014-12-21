@@ -20,7 +20,8 @@ Additionally, please keep in mind the following notes about this preview snapsho
 
 * There is no user interface to add, modify and remove users/groups
 * There is no user interface to modify power management preferences
-* tlp (power management) is missing
+* tlp (power management) is missing  
+  tlp is now into the repositories and will be automatically installed at the next upgrade.
 * The new desktop launcher is not reliable and may not show some applications.
 * The new login greeter is missing
 * It's not possible to set different backgrounds on multiple monitors.  
