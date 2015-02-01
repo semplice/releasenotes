@@ -24,6 +24,7 @@ Additionally, please keep in mind the following notes about this preview snapsho
 * tlp (power management) is missing  
   tlp is now into the repositories and will be automatically installed at the next upgrade.
 * The new desktop launcher is not reliable and may not show some applications.
+  Reliability issues and other bugfixes have been resolved in vera-plugin-desktop version [0.26-1 and 0.27-1](https://github.com/vera-desktop/vera-plugin-desktop/compare/debian/0.25.0-1...debian/0.27.0-1)
 * The new login greeter is missing
 * It's not possible to set different backgrounds on multiple monitors.  
   This is only an user interface issue, as it's still possible to set
