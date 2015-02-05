@@ -33,7 +33,8 @@ Additionally, please keep in mind the following notes about this preview snapsho
 * There is no user interface to configure the applications to autostart  
   This has been implemented in vera-control-center version [0.31-1](https://github.com/vera-desktop/vera-control-center/compare/debian/0.30-1...debian/0.31-1)
 * Only GTK+3 applications take advantage of the "vera-color" feature.  
-  There are plans to expand this feature to GTK+2 and Openbox
+  There are plans to expand this feature to GTK+2 applications.
+  vera-color Openbox support has been implemented in vera-plugin-openbox version [0.29-2](https://github.com/vera-desktop/vera-plugin-openbox/compare/debian/0.28-1...debian/0.29-2)
 * Translation support for vera is missing
 * You must enable the MPRIS2 pragha plugin to get the music player controls
   in the menu.  
