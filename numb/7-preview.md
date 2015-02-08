@@ -25,15 +25,16 @@ Additionally, please keep in mind the following notes about this preview snapsho
   tlp is now into the repositories and will be automatically installed at the next upgrade.
 * The new desktop launcher is not reliable and may not show some applications.
   Reliability issues and other bugfixes have been resolved in vera-plugin-desktop version [0.26-1 and 0.27-1](https://github.com/vera-desktop/vera-plugin-desktop/compare/debian/0.25.0-1...debian/0.27.0-1)
-* The new login greeter is missing
+* The new login greeter is missing  
+  This has been postponed to Semplice 8.
 * It's not possible to set different backgrounds on multiple monitors.  
   This is only an user interface issue, as it's still possible to set
-  different backgrounds manually
+  different backgrounds manually  
   This has been implemented in vera-control-center version [0.33-1](https://github.com/vera-desktop/vera-control-center/compare/debian/0.32-2...debian/0.33-1)
 * There is no user interface to configure the applications to autostart  
   This has been implemented in vera-control-center version [0.31-1](https://github.com/vera-desktop/vera-control-center/compare/debian/0.30-1...debian/0.31-1)
 * Only GTK+3 applications take advantage of the "vera-color" feature.  
-  There are plans to expand this feature to GTK+2 applications.
+  There are plans to expand this feature to GTK+2 applications.  
   vera-color Openbox support has been implemented in vera-plugin-openbox version [0.29-2](https://github.com/vera-desktop/vera-plugin-openbox/compare/debian/0.28-1...debian/0.29-2)
 * Translation support for vera is missing
 * You must enable the MPRIS2 pragha plugin to get the music player controls
