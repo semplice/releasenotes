@@ -54,7 +54,7 @@ Additionally, please keep in mind the following notes about this preview snapsho
   machine, use UNetbootin (this will be obviously fixed in the final release)
 * The screen auto-locks in live session.  
   To exit from the screensaver you must use the "live" password.  
-  This is tracked in [live-config-semplice bug #1](https://github.com/semplice/live-config-semplice/issues/1).
+  This is tracked in [live-config-semplice bug #1](https://github.com/semplice/live-config-semplice/issues/1) and fixed in [live-config-semplice commit ac24121](https://github.com/semplice/live-config-semplice/commit/ac2412166525270ae5260e12d9eece9c295a5ef7).
 
 We are commited to solve all these issues before distributing the final release.
 
