@@ -18,7 +18,7 @@ Expect bugs to be present.
 
 Additionally, please keep in mind the following notes about this preview snapshot:
 
-* There is no user interface to add, modify and remove users/groups
+* There is no user interface to add, modify and remove users/groups  
   This has been implemented in master, soon it will land into the development repositories.
 * There is no user interface to modify power management preferences  
   This has been implemented in vera-control-center version [0.32-1](https://github.com/vera-desktop/vera-control-center/compare/debian/0.31-1...debian/0.32-1)
@@ -38,7 +38,8 @@ Additionally, please keep in mind the following notes about this preview snapsho
   There are plans to expand this feature to GTK+2 applications.  
   vera-color Openbox support has been implemented in vera-plugin-openbox version [0.29-2](https://github.com/vera-desktop/vera-plugin-openbox/compare/debian/0.28-1...debian/0.29-2)  
   vera-color GTK+2 support has been implemented in vera-plugin-desktop version [0.31](https://github.com/vera-desktop/vera-plugin-desktop/commit/0dbc6a2fd2de3eead8f087985a861f06f0865b08).
-* Translation support for vera is missing
+* Translation support for vera is missing  
+  This has been implemented. Check [Transifex](https://www.transifex.com/organization/semplice/dashboard) to help with translations.
 * You must enable the MPRIS2 pragha plugin to get the music player controls
   in the menu.  
   Open Pragha Music Player, then Tools -> Preferences -> Plugins, then
