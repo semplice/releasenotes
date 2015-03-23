@@ -19,6 +19,7 @@ Expect bugs to be present.
 Additionally, please keep in mind the following notes about this preview snapshot:
 
 * There is no user interface to add, modify and remove users/groups
+  This has been implemented in master, soon it will land into the development repositories.
 * There is no user interface to modify power management preferences  
   This has been implemented in vera-control-center version [0.32-1](https://github.com/vera-desktop/vera-control-center/compare/debian/0.31-1...debian/0.32-1)
 * tlp (power management) is missing  
